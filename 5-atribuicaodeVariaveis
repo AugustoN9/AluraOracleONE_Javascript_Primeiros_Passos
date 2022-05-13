@@ -1,0 +1,17 @@
+console.log("Trabalhando com Atribuição de Variáveis");
+const idade = 42;
+const nome = "Augusto";
+let  primeiroNome = "Augusto";
+//const sobrenome = "Lopez";
+let sobrenome = "Lopez";
+
+console.log("usando virgula para separar variaveis = ",nome,sobrenome);
+console.log(nome + " " + sobrenome);
+console.log(`Meu nome é ${nome} ${sobrenome}`);
+
+//nome = nome + sobrenome;
+nomeCompleto = primeiroNome +" "+ sobrenome;
+
+console.log(nomeCompleto);
+
+
